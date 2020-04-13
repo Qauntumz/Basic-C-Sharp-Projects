@@ -1,0 +1,7 @@
+C:\Users\purej\source\repos\tech academy daily report\bin\Debug\tech academy daily report.exe.config
+C:\Users\purej\source\repos\tech academy daily report\bin\Debug\tech academy daily report.exe
+C:\Users\purej\source\repos\tech academy daily report\bin\Debug\tech academy daily report.pdb
+C:\Users\purej\source\repos\tech academy daily report\obj\Debug\tech academy daily report.csprojAssemblyReference.cache
+C:\Users\purej\source\repos\tech academy daily report\obj\Debug\tech academy daily report.csproj.CoreCompileInputs.cache
+C:\Users\purej\source\repos\tech academy daily report\obj\Debug\tech academy daily report.exe
+C:\Users\purej\source\repos\tech academy daily report\obj\Debug\tech academy daily report.pdb
