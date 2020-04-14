@@ -5,3 +5,10 @@ C:\Users\purej\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 C:\Users\purej\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\Users\purej\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\purej\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Accounting Homepage\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\bin\Debug\mathproject.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\bin\Debug\mathproject.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\bin\Debug\mathproject.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\obj\Debug\mathproject.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\obj\Debug\mathproject.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\obj\Debug\mathproject.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\mathproject\obj\Debug\mathproject.pdb
