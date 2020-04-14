@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\obj\Debug\Car Insurance approval.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\obj\Debug\Car Insurance approval.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\bin\Debug\Car Insurance approval.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\bin\Debug\Car Insurance approval.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\bin\Debug\Car Insurance approval.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\obj\Debug\Car Insurance approval.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Car Insurance approval\obj\Debug\Car Insurance approval.pdb
