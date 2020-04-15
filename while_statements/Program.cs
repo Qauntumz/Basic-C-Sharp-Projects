@@ -6,19 +6,30 @@ namespace while_statements
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            while (i < 5)
+            Console.WriteLine("Please enter your height, you must be atleast 49 to ride.");
+            int height = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please Enter your age");
+            int age = Convert.ToInt32(Console.ReadLine());
+            while (age < 8)
             {
-                Console.WriteLine(i);
-                i++;
+                bool ofage = (age > 5 && height > 49);
+                Console.WriteLine(age);
+                Console.WriteLine(ofage);
+                age++;
             }
-            int j = 0;
+
+            Console.WriteLine("Please enter your height, you must be atleast 49 to ride.");
+            int dheight = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please Enter your age");
+            int dage = Convert.ToInt32(Console.ReadLine());
             do
             {
-                Console.WriteLine(j);
-                j++;
+                bool dofage = (dage > 5 && dheight > 49);
+                Console.WriteLine(dage);
+                Console.WriteLine(dofage);
+                dage++;
             }
-            while (j < 5);
+            while (dage < 8);
         }
     }
 }
