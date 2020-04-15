@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\bin\Debug\shipping quote package.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\bin\Debug\shipping quote package.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\bin\Debug\shipping quote package.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\obj\Debug\shipping quote package.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\obj\Debug\shipping quote package.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\obj\Debug\shipping quote package.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\shipping quote package\obj\Debug\shipping quote package.pdb
