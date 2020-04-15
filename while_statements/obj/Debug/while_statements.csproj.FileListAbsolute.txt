@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\bin\Debug\while_statements.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\bin\Debug\while_statements.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\bin\Debug\while_statements.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\obj\Debug\while_statements.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\obj\Debug\while_statements.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\obj\Debug\while_statements.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\while_statements\obj\Debug\while_statements.pdb
