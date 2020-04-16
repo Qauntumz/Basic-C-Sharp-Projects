@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\obj\Debug\ArraysandLists.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\obj\Debug\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\bin\Debug\ArraysandLists.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\bin\Debug\ArraysandLists.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\bin\Debug\ArraysandLists.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\obj\Debug\ArraysandLists.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\ArraysandLists\obj\Debug\ArraysandLists.pdb
