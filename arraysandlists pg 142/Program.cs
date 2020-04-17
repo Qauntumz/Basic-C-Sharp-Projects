@@ -58,33 +58,18 @@ namespace arraysandlists_pg_142
             Console.WriteLine("Please enter a string value to find the index of list item that match it in the list: nice to meet you im josh josh .");
             List<string> wordz = new List<string>() { "nice", "to", "meet", "you", "im", "josh", "josh" };
             string B = Console.ReadLine();
-            int indx = wordz.FindIndex(worb => worb.Contains(B));
             int k = 0;
             foreach (string worb in wordz)
             {
                 k++;
                 if (worb.Contains(B))
                 {
-                    Console.WriteLine("The index of " + worb + " is " + indx);
+                    Console.WriteLine("The index of " + worb + " is " + (k-1));
                 }
-                else
+                else if (wordz.Count() == k)
                 {
-                    if (wordz.Count() == k)
-                    {
-                        Console.WriteLine("The search matches none of the list values");
-                    }
+                    Console.WriteLine("The search matches none of the list values");
                 }
-
-                /*                else if (wordz.Count() == k)
-                                {
-                                    break;
-                                }
-                            }
-                            if (wordz.Count() == k)
-                            {
-                                Console.WriteLine("The search matches none of the list values");
-                            }
-                */
             }
         }
     }
