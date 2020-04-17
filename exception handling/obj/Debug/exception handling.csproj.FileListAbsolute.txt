@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\bin\Debug\exception handling.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\bin\Debug\exception handling.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\bin\Debug\exception handling.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\obj\Debug\exception handling.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\obj\Debug\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\obj\Debug\exception handling.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\exception handling\obj\Debug\exception handling.pdb
