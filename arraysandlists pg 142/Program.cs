@@ -67,9 +67,12 @@ namespace arraysandlists_pg_142
                 {
                     Console.WriteLine("The index of " + worb + " is " + indx);
                 }
-                else if (wordz.Count() == k)
+                else
                 {
+                    if (wordz.Count() == k)
+                    {
                         Console.WriteLine("The search matches none of the list values");
+                    }
                 }
 
                 /*                else if (wordz.Count() == k)
