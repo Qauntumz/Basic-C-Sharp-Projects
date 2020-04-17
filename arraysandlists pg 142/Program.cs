@@ -64,12 +64,37 @@ namespace arraysandlists_pg_142
                 k++;
                 if (worb.Contains(B))
                 {
-                    Console.WriteLine("The index of " + worb + " is " + (k-1));
+                    Console.WriteLine("The index of " + worb + " is " + (k - 1));
                 }
+                
                 else if (wordz.Count() == k)
                 {
-                    Console.WriteLine("The search matches none of the list values");
+                    if (worb.Contains(B))
+                    {
+                        Console.WriteLine(" ");
+                    }
+                    else
+                    {
+                        Console.WriteLine("The search matches none of the list values");
+                    }
                 }
+            }
+            Console.WriteLine("Please enter a string value to find the index of list item that match it in the list: nice to meet you im josh josh .");
+            List<string> workz = new List<string>() { "nice", "to", "meet", "you", "im", "josh", "josh" };
+            List<string> here = new List<string>();
+            int v = 0;
+            foreach (string work in workz)
+            {
+                here.Add(work);
+                foreach (string her in here) 
+                {
+                    if (her == work)
+                    {
+                        v++;
+                    }
+                }
+                Console.WriteLine("Value = " + work + ", this string has appeared " + v + " times in this list.");
+                v=0;
             }
         }
     }
