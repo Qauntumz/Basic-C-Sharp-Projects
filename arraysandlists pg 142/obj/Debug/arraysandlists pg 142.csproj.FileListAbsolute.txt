@@ -5,3 +5,10 @@ C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\arraysandlists pg
 C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.csproj.CoreCompileInputs.cache
 C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.exe
 C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\bin\Debug\arraysandlists pg 142.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\bin\Debug\arraysandlists pg 142.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\bin\Debug\arraysandlists pg 142.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\arraysandlists pg 142\obj\Debug\arraysandlists pg 142.pdb

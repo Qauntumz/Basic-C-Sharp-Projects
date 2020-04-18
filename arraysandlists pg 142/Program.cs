@@ -11,6 +11,13 @@ namespace arraysandlists_pg_142
         static void Main(string[] args)
         {
 
+/*            int p = 1;
+            while (p < 10)  
+            {
+                Console.WriteLine(p);
+                p--;      having p-- here is an infinite loop, as p is always under 10, chaging it to p++ as i do in the next chunk of code fixes it to just run to 10
+            }*/
+
             int p = 1;
             while (p < 10)
             {
@@ -93,7 +100,14 @@ namespace arraysandlists_pg_142
                         v++;
                     }
                 }
-                Console.WriteLine("Value = " + work + ", this string has appeared " + v + " times in this list.");
+                if (v >= 2)
+                {
+                    Console.WriteLine("Value = " + work + ", this string has already appeared in this list");
+                }
+                else
+                {
+                    Console.WriteLine("Value = " + work);
+                }
                 v=0;
             }
         }
