@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\bin\Debug\class assignment pg156.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\bin\Debug\class assignment pg156.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\bin\Debug\class assignment pg156.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\obj\Debug\class assignment pg156.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\obj\Debug\class assignment pg156.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\obj\Debug\class assignment pg156.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class assignment pg156\obj\Debug\class assignment pg156.pdb

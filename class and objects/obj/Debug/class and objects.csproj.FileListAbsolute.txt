@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\bin\Debug\class and objects.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\bin\Debug\class and objects.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\bin\Debug\class and objects.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\obj\Debug\class and objects.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\obj\Debug\class and objects.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\obj\Debug\class and objects.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\class and objects\obj\Debug\class and objects.pdb
