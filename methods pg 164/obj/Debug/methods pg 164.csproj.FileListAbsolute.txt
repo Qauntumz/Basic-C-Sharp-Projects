@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\bin\Debug\methods pg 164.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\bin\Debug\methods pg 164.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\bin\Debug\methods pg 164.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\obj\Debug\methods pg 164.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\obj\Debug\methods pg 164.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\obj\Debug\methods pg 164.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 164\obj\Debug\methods pg 164.pdb
