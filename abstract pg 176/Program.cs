@@ -10,6 +10,10 @@ namespace abstract_pg_176
     {
         static void Main(string[] args)
         {
+            Iquittable mployee = new Employee();
+            mployee.Quit();
+
+
             Employee employee = new Employee();
             string FirstName = "Sample";
             string LastName = "Student";
