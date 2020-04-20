@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6CBC48DD-0CFA-421A-9A9A-F0700D6125B0}</ProjectGuid>
+    <ProjectGuid>{EAC0E60B-43ED-494A-BEA3-C59EEEC9649D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>class_and_objects</RootNamespace>
-    <AssemblyName>class and objects</AssemblyName>
+    <RootNamespace>inheritance_pg_169</RootNamespace>
+    <AssemblyName>inheritance pg 169</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="game.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="twentyonegame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
