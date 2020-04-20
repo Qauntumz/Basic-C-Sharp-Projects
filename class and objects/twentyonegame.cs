@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace class_and_objects
 {
-    public class twentyonegame : game
+    public class twentyonegame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 players");
+            base.ListPlayers();
         }
     }
 }

@@ -11,6 +11,11 @@ namespace class_and_objects
         static void Main(string[] args)
         {
 
+            twentyonegame game = new twentyonegame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
+            Console.ReadLine();
+
             Deck deck = new Deck();
             deck.Shuffle(3);
 
