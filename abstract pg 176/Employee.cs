@@ -8,7 +8,7 @@ namespace abstract_pg_176
 {
     public class Employee : Person, Iquittable
     {
-        public override void sayName(string FirstName, string LastName)
+        public override void sayName()
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }

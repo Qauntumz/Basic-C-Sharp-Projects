@@ -12,7 +12,7 @@ namespace abstract_pg_176
         {
             Iquittable mployee = new Employee();
             mployee.Quit();
-            
+
 
             Employee employee = new Employee();
             employee.ID = 7;
@@ -21,7 +21,6 @@ namespace abstract_pg_176
             employee.LastName = "Student";
             nployee.ID = 6;
             employee.sayName();
-            Console.WriteLine(nployee == employee);
 
         }
     }
