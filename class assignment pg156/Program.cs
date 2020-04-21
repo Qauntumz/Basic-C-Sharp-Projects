@@ -16,14 +16,19 @@ namespace class_assignment_pg156
                 Console.WriteLine("Choose two values to multiply together");
 
                 mathop op = new mathop();
-
-                op.Multiply();
+                int X = Convert.ToInt32(Console.ReadLine());
+                int Y = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(op.Multiply(X,Y));
 
                 Console.WriteLine("Choose two values to divide the first by the second");
-                op.Divide();
+                int G = Convert.ToInt32(Console.ReadLine());
+                int H = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(op.Divide(G,H));
 
                 Console.WriteLine("Choose two values to subtract the first by the second");
-                op.Subtract();
+                int J = Convert.ToInt32(Console.ReadLine());
+                int K = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(op.Subtract(J,K));
 
             }
             catch (FormatException ex)

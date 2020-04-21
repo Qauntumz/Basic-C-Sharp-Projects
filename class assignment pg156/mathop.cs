@@ -10,25 +10,19 @@ namespace class_assignment_pg156
 {
     public class mathop
     {
-        public void Multiply()
+        public int Multiply(int X, int Y)
         {
-            int X = Convert.ToInt32(Console.ReadLine());
-            int Y = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(X * Y);
+            return X * Y;
            
         }
-        public void Divide()
+        public int Divide(int G, int H)
         {
-            int X = Convert.ToInt32(Console.ReadLine());
-            int Y = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(X / Y);
+            return G / H;
 
         }
-        public void Subtract()
+        public int Subtract(int J, int K)
         {
-            int X = Convert.ToInt32(Console.ReadLine());
-            int Y = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(X - Y);
+            return J - K;
 
         }
         public int Y { get; }
