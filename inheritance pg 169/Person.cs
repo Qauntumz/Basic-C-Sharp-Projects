@@ -8,14 +8,15 @@ namespace inheritance_pg_169
 {
     public class Person
     {
-        public void sayName(string FirstName, string LastName)
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public void sayName()
         {
 
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+
 
     }
 }

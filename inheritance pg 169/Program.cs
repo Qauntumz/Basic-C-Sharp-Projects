@@ -11,9 +11,12 @@ namespace inheritance_pg_169
         static void Main(string[] args)
         {
             Employee employee = new Employee();
-            string FirstName = "Sample";
-            string LastName = "Student";
-            employee.sayName(FirstName, LastName);
+            /*            string FirstName = "Sample";
+                        string LastName = "Student";*/
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
+
+            employee.sayName();
         }
     }
 }
