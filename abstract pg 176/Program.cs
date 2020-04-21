@@ -12,12 +12,17 @@ namespace abstract_pg_176
         {
             Iquittable mployee = new Employee();
             mployee.Quit();
-
+            
 
             Employee employee = new Employee();
             string FirstName = "Sample";
             string LastName = "Student";
             employee.sayName(FirstName, LastName);
+            employee.ID = 7;
+            Employee nployee = new Employee();
+            nployee.ID = 6;
+            Console.WriteLine(nployee == employee);
+
         }
     }
 }
