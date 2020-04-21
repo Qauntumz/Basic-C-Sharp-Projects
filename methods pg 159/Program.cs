@@ -14,13 +14,14 @@ namespace methods_pg_159
             {
                 mathop op = new mathop();
 
-                int myNum1 = op.MathOperation(8, 5);
+                int myNum1 = op.MathOperation(8);
 
                 mathop oz = new mathop();
-                decimal myNum2 = oz.MathOperation(4, 6);
+                int myNum2 = oz.MathOperation(4);
+
 
                 mathop ov = new mathop();
-                string myNum3 = Convert.ToString(ov.MathOperation(12, 8));
+                int myNum3 = ov.MathOperation("6");
                 Console.WriteLine("Int: " + myNum1);
                 Console.WriteLine("Decimal to int: " + myNum2);
                 Console.WriteLine("string to int: " + myNum3);

@@ -8,21 +8,20 @@ namespace methods_pg_159
 {
     public class mathop
     {
-        public int MathOperation(int x, int y)
+        public int MathOperation(int x)
         {
-            return x + y;
+            return x + 5;
         }
 
-        public decimal MathOperation(decimal x, decimal y)
+        public int MathOperation(decimal y)
         {
-            int decint = Convert.ToInt32(x * y);
-            return decint;
+            int decint = Convert.ToInt32(y);
+            return decint * 2;
         }
-        public string MathOperation(string x, string y)
+        public int MathOperation(string g)
         {
-            int g = Convert.ToInt32(x);
-            int h = Convert.ToInt32(y);
-            return g - h;
+            int strint = Convert.ToInt32(g);
+            return strint - 8;
         }
     }
 }
