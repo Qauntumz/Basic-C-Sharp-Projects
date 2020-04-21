@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\obj\Debug\operator overload pg 184.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\obj\Debug\operator overload pg 184.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\bin\Debug\operator overload pg 184.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\bin\Debug\operator overload pg 184.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\bin\Debug\operator overload pg 184.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\obj\Debug\operator overload pg 184.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\operator overload pg 184\obj\Debug\operator overload pg 184.pdb
