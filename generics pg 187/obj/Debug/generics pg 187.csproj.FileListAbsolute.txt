@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\bin\Debug\generics pg 187.exe.config
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\bin\Debug\generics pg 187.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\bin\Debug\generics pg 187.pdb
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\obj\Debug\generics pg 187.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\obj\Debug\generics pg 187.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\obj\Debug\generics pg 187.exe
+C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\generics pg 187\obj\Debug\generics pg 187.pdb
