@@ -11,12 +11,7 @@ namespace class_and_objects
         static void Main(string[] args)
         {
 
-            Game game = new twentyonegame();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game = game + player;
 
-            Console.ReadLine();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -28,6 +23,7 @@ namespace class_and_objects
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
+            Console.ReadLine();
         }
 
 

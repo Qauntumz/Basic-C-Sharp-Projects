@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\bin\Debug\enum pg 192.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\bin\Debug\enum pg 192.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\bin\Debug\enum pg 192.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\obj\Debug\enum pg 192.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\obj\Debug\enum pg 192.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\obj\Debug\enum pg 192.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\enum pg 192\obj\Debug\enum pg 192.pdb
