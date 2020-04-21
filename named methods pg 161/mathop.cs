@@ -10,7 +10,7 @@ namespace named_methods_pg_161
     {
         public void MathOperation(int Weight, int finalPrice)
         {
-            Console.WriteLine("Weight = " + Weight + " * 2 to get final price");
+            Console.WriteLine(Weight * 2 + " Multiply this by two to get the final price");
             Console.WriteLine("final price = " + finalPrice);
         }
     }

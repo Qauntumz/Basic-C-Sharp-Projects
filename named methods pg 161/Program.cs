@@ -13,7 +13,7 @@ namespace named_methods_pg_161
             Console.WriteLine("Named parameters");
             mathop op = new mathop();
 
-            op.MathOperation(Weight: 32, finalPrice: 64);
+            op.MathOperation(Weight: 16, finalPrice: 64);
 
         }
     }
