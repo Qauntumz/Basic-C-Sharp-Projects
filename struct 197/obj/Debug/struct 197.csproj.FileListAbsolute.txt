@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\bin\Debug\struct 197.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\bin\Debug\struct 197.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\bin\Debug\struct 197.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\obj\Debug\struct 197.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\obj\Debug\struct 197.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\obj\Debug\struct 197.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\struct 197\obj\Debug\struct 197.pdb
