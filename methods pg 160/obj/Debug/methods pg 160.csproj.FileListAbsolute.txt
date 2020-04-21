@@ -5,3 +5,10 @@ C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Deb
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.csproj.CoreCompileInputs.cache
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.exe
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\bin\Debug\methods pg 160.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\bin\Debug\methods pg 160.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\bin\Debug\methods pg 160.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\methods pg 160\obj\Debug\methods pg 160.pdb
