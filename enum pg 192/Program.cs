@@ -15,7 +15,7 @@ namespace enum_pg_192
                 Console.WriteLine("Please enter the current day of the week");
                 string x = Console.ReadLine();
 
-                int enumVal = Convert.ToInt32((Day)Enum.Parse(typeof(Day), x));
+                Day enumVal = (Day)Enum.Parse(typeof(Day), x);
                 Console.WriteLine("The valid day of the week entered = " + x);
 
 
