@@ -1,0 +1,7 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\bin\Debug\DateTime pg 221.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\bin\Debug\DateTime pg 221.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\bin\Debug\DateTime pg 221.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\obj\Debug\DateTime pg 221.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\obj\Debug\DateTime pg 221.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\obj\Debug\DateTime pg 221.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\DateTime pg 221\obj\Debug\DateTime pg 221.pdb

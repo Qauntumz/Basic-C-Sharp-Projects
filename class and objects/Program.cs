@@ -11,8 +11,7 @@ namespace class_and_objects
     {
         static void Main(string[] args)
         {
-            string text = "Here is some text.";
-            File.WriteAllText(@"C:\Users\purej\Desktop\log.txt", text);
+            DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
 
 
 
