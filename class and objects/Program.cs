@@ -27,6 +27,11 @@ namespace class_and_objects
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.ID = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\purej\Desktop\log.txt", true))
+                {
+                    file.WriteLine(player.ID);
+                }
                 Game game = new twentyonegame();
                 game += player;
                 player.isActivelyPlaying = true;

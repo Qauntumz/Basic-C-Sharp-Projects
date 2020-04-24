@@ -20,6 +20,7 @@ namespace class_and_objects
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+        public Guid ID { get; set; }
         public bool Stay { get; set; }
 
         
