@@ -29,22 +29,17 @@ namespace operator_overload_184
 
         public int ID { get; set; }
 
-        public override bool Equals(object obj)
-        {
-            Employee nployee = obj as Employee;
-            return ID == nployee.ID;
-        }
 
         public static bool operator ==(Employee employee, Employee nployee)
         {
 
-            return employee.Equals(nployee);
+            return employee.ID == nployee.ID;
         }
 
         public static bool operator !=(Employee employee, Employee nployee)
         {
 
-            return !employee.Equals(nployee);
+            return !(employee.ID == nployee.ID);
         }
 
 

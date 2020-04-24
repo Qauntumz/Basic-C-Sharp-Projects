@@ -15,7 +15,7 @@ namespace operator_overload_184
 
 
             Employee employee = new Employee();
-            employee.ID = 7;
+            employee.ID = 6;
             Employee nployee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
