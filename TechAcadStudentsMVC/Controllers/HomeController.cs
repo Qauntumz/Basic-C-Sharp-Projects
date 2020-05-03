@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using TechAcadStudentsMVC.Models;
+
 
 namespace TechAcadStudentsMVC.Controllers
 {
@@ -22,9 +24,49 @@ namespace TechAcadStudentsMVC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contact Page - The Tech Academy.";
 
             return View();
+        }
+
+        public ActionResult Instructor(int id)
+        {
+            ViewBag.ID = id;
+
+            Instructor dayTimeInstructor = new Instructor
+            {
+                ID = 1,
+                FirstName = "Erik",
+                LastName = "Gross",
+            };
+
+            return View(dayTimeInstructor);
+        }
+        public ActionResult Instructors()
+        {
+            List<Instructor> instructors = new List<Instructor>
+            {
+                new Instructor
+                {
+                ID = 1,
+                FirstName = "Erik",
+                LastName = "Gross",
+                },
+                new Instructor
+                {
+                ID = 2,
+                FirstName = "Brett",
+                LastName = "Calendar",
+                },
+                new Instructor
+                {
+                ID = 3,
+                FirstName = "Adam",
+                LastName = "Smithsonian",
+                }
+            };
+
+            return View(instructors);
         }
     }
 }
