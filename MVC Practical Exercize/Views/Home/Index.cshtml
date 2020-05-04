@@ -1,0 +1,51 @@
+﻿<div class="row no-gutters m-3">
+  <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+    <div class="card-header text-center">
+      <h1 class="m-0">Sign up for a free car insurance Quote!</h1>
+    </div>
+    <div class="card-body">
+      @using (Html.BeginForm("SignUp", "Home", FormMethod.Post))
+      {
+      <div class="row no-gutters">
+        <div class="form-group col-md-12">
+          <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+        </div>
+        <div class="form-group col-md-12">
+          <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+        </div>
+        <div class="form-group col-md-12">
+          <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+        </div>
+        <div class="form-group col-md-12">
+          <h3>What is your date of birth?</h3>
+          <input name="DateOfBirth" type="date" class="form-control" placeholder="How old are you?" />
+        </div>
+        <div class="form-group col-md-12">
+          <input name="CarYear" type="number" class="form-control" placeholder="What year was your car made in?" />
+        </div>
+        <div class="form-group col-md-12">
+          <input name="CarMake" type="text" class="form-control" placeholder="What make of car do you have?" />
+        </div>
+        <div class="form-group col-md-12">
+          <input name="CarModel" type="text" class="form-control" placeholder="What model of car do you have?" />
+        </div>
+        <div class="form-group col-md-12">
+          <h3>Have you ever had a DUI?</h3>
+          <label><input name="HadDui" type="radio" value=true />Yes</label>
+          <label><input name="HadDui" type="radio" value=false />No </label>
+        </div>
+        <div class="form-group col-md-12">
+          <h3>How many speeding tickets have you had?</h3>
+          <input name="SpeedingTicket" type="number" class="form-control" placeholder="0" />
+        </div>
+        <div class="form-group col-md-12">
+          <h3>Would you like full coverage or liability?</h3>
+          <label><input name="FullCoverage" type="radio" value=true />Full Coverage</label>
+          <label><input name="FullCoverage" type="radio" value=false />Liability </label>
+        </div>
+        <button type="submit" class="btn btn-block btn-primary">Submit</button>
+      </div>
+      }
+    </div>
+  </div>
+</div>

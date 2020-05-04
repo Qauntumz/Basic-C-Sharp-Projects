@@ -12,10 +12,6 @@ namespace NewsletterAppMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-
-
-
         public ActionResult Index()
         {
             return View();
@@ -30,8 +26,18 @@ namespace NewsletterAppMVC.Controllers
             }
             else
             {
+                using (NewsletterEntities db = new NewsletterEntities())
+                {
+                    var signup = new SignUp();
+                    signup.FirstName = firstName;
+                    signup.LastName = lastName;
+                    signup.EmailAddress = emailAddress;
 
-                string queryString = @"INSERT INTO SignUps (FirstName, LastName, EmailAddress) VALUES 
+                    db.SignUps.Add(signup);
+                    db.SaveChanges();
+                }
+
+/*                string queryString = @"INSERT INTO SignUps (FirstName, LastName, EmailAddress) VALUES 
                                         (@FirstName, @LastName, @EmailAddress)";
 
                 using (SqlConnection connection = new SqlConnection(connectionString))
@@ -50,51 +56,9 @@ namespace NewsletterAppMVC.Controllers
                     command.ExecuteNonQuery();
                     connection.Close();
 
-                }
+                }*/
                 return View("Success");
             }
-        }
-
-        public ActionResult Admin()
-        {
-            string queryString = @"SELECT Id, FirsTName, LastName, EmailAddress, SocialSecurityNumber FROM Signups";
-            List<NewsLetterSignUp> signups = new List<NewsLetterSignUp>();
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                SqlCommand command = new SqlCommand(queryString, connection);
-
-
-                connection.Open();
-
-                SqlDataReader reader = command.ExecuteReader();
-
-
-                while (reader.Read())
-                {
-                    var signup = new NewsLetterSignUp();
-                    signup.Id = Convert.ToInt32(reader["Id"]);
-                    signup.FirstName = reader["FirstName"].ToString();
-                    signup.LastName = reader["LastName"].ToString();
-                    signup.EmailAddress = reader["EmailAddress"].ToString();
-                    signup.SocialSecurityNumber = reader["SocialSecurityNumber"].ToString();
-
-
-                    signups.Add(signup);
-                }
-            }
-            var signupVms = new List<SignupVm>();
-            foreach (var signup in signups)
-            {
-                var signupVm = new SignupVm();
-                signupVm.FirstName = signup.FirstName;
-                signupVm.LastName = signup.LastName;
-                signupVm.EmailAddress = signup.EmailAddress;
-                signupVms.Add(signupVm);
-            }
-
-
-            return View(signupVms);
         }
     }
 }

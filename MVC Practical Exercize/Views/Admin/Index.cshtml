@@ -1,0 +1,34 @@
+﻿@using MVC_Practical_Exercize.ViewModels
+@model List<QuoteVm>
+
+<div class="row no-gutters m-3">
+  <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto">
+    <div class="card-header text-center">
+      <h5 class="m-0">
+        Quotations
+      </h5>
+    </div>
+    <div class="card-body">
+      <div class="row mb-3">
+        <br /><br />
+      </div>
+      @foreach (var quote in Model)
+      {
+        <div class="row mb-3">
+          <div class="col-3">
+            @quote.FirstName
+          </div>
+          <div class="col-3">
+            @quote.LastName
+          </div>
+          <div class="col-4">
+            @quote.EmailAddress
+          </div>
+          <div class="col text-right">
+            @string.Format("{0:C2}", quote.Quote)
+          </div>
+        </div>
+      }
+    </div>
+  </div>
+</div>
