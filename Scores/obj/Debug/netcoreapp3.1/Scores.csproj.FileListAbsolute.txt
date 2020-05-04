@@ -1,0 +1,13 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
