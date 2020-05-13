@@ -19,7 +19,7 @@ namespace abstract_pg_176
             Employee nployee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
-            nployee.ID = 6;
+            nployee.ID = 7;
             employee.sayName();
             Console.WriteLine(nployee == employee);
 

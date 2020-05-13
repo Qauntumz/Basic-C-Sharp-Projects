@@ -5,3 +5,10 @@ C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\De
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.csproj.CoreCompileInputs.cache
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.exe
 C:\Users\purej\Desktop\repo\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\bin\Debug\abstract pg 176.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\bin\Debug\abstract pg 176.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\bin\Debug\abstract pg 176.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-Basic-C-Projects\abstract pg 176\obj\Debug\abstract pg 176.pdb
